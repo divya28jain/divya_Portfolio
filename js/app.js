@@ -410,7 +410,7 @@ window.addEventListener("scroll", () => {
     };
     
     try {
-      await fetch('https://script.google.com/macros/s/AKfycbxPNIDKm93naZY5rPzibSLVpAfUV9cKzEaS_uPhcytB48aYJ6diwNEmsEjdmzshMlbt/exec', {
+      await fetch('https://script.google.com/macros/s/AKfycbwfWlYh1_I5HK66cP0c0p5UtrNv08JojfbjZXCElOGmZF838Ekv1T9vWrBUrRGmkc4NHg/exec', {
         method: 'POST',
         mode: 'no-cors',
         headers: {
